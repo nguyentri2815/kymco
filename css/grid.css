@@ -1000,3 +1000,14 @@
 .new__banner img {
   width: 100%;
 }
+.header{
+  height: 68PX;
+}
+.Technology-section {
+  margin-top: 60px;
+}
+@media only screen and (max-width: 991px){
+  .header-right__content.active {
+      overflow-y: auto;
+    }
+}
